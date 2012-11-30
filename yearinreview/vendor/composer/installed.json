@@ -1,0 +1,14 @@
+[
+    {
+        "name": "bartaz/impress.js",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/bartaz/impress.js",
+            "reference": "master"
+        },
+        "type": "library",
+        "installation-source": "source"
+    }
+]

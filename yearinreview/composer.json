@@ -1,0 +1,20 @@
+{
+    "name": "pmeth/gtaphp-year-in-review",
+    "repositories": [
+        {
+            "type": "package",
+						"package": {
+							"name": "bartaz/impress.js",
+							"version": "dev-master",
+							"source": {
+								"url": "https://github.com/bartaz/impress.js",
+								"type": "git",
+								"reference": "master"
+							}
+						}
+        }
+    ],
+    "require": {
+        "bartaz/impress.js": "dev-master"
+    }
+}
