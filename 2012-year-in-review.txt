@@ -21,9 +21,8 @@ What's up for 2013
 
 - Continue offering great meetups
 - 2 x 30 presentation format
-- Looking into having a hackathon in place of the February meeting
-- We will be hosting Workshops
-- Exploring the possibility of having some training courses
-- Start working on True North PHP around May
-- We are going to experiment with having another set of meetups in the north
-- Solidifying some industry partnerships while maintaining our focus
+- Hackathons
+- Weekend Workshops
+- Training courses
+- True North PHP
+- GTAPHP North
