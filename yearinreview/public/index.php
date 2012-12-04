@@ -13,14 +13,18 @@ $slides = array(
 	'SEPTEMBER<br><br>Celebrated our 2 Year Anniversary',
 	'OCTOBER<br><br>Moved to Instaclick',
 	'NOVEMBER<br><br>True North PHP Conference',
+
 	'What\'s up for 2013?',
+	'Bigger Space',
 	'2 x 30 Presentation Format',
 	'Hackathons',
 	'Weekend Workshops',
 	'Training Courses',
 	'GTAPHP North',
 	'True North PHP #2',
-	'PRIZES<br><br>#1 - Jetbrains License (Any product)<br>#2 - Virtual Conference Ticket',
+	'Industry Partnerships',
+
+	'PRIZES<br><br>#1 - Jetbrains License (Any product)<br>#2 - PHP Master Series Ticket',
 	'<a href="winnergenerator">Winner Generator</a>',
 );
 
