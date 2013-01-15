@@ -6,7 +6,7 @@ $view = array(
 
 $slides = array(
 	'Welcome to GTAPHP 2013',
-	'Bigger Space',
+	'Thanks to Instaclick for this Space',
 	'<h2>UPCOMING</h2>Jan 21 - Apr 22<br><br>Learn PHP - Virtual Self Study Group',
 	'<h2>UPCOMING</h2>Feb 5<br><br>Hackathon',
 
