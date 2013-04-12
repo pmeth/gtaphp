@@ -31,8 +31,8 @@ GTA PHP offers 3 sponsorship packages.
 
 *    Your logo on [GTA PHP](http://www.gtaphp.org) website
 *    Monthly announcement on Twitter from [@gtaphp](https://twitter.com/gtaphp)
-*    mention at start of each meetup
-*    mention on mailing list announcements
+*    Mention at start of each meetup
+*    Mention on mailing list announcements
 
 **Options:**
 
