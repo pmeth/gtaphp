@@ -1,0 +1,25 @@
+{
+    "hash": "34027d9a095f597020efabd15324e2ad",
+    "packages": [
+        {
+            "name": "bartaz/impress.js",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/bartaz/impress.js",
+                "reference": "master"
+            },
+            "type": "library",
+            "installation-source": "source",
+            "time": "2012-11-26 13:41:51"
+        }
+    ],
+    "packages-dev": null,
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "bartaz/impress.js": 20
+    }
+}
