@@ -54,3 +54,9 @@ body {
 .navbar-inner {
 	min-height: 40px;
 }
+
+@media (min-width: 1200px) {
+	.span4 {
+		width: 330px;
+	}
+}
