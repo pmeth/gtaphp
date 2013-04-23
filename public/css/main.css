@@ -10,40 +10,47 @@ body {
 }
 
 #mainheader {
-    padding-bottom: 20px;
+	padding-bottom: 20px;
+}
 
-}
 #mainheader img {
-    float:left;
+	float:left;
 }
-#tagline {    
-    color: rgb(255, 255, 255);
-    font-size: 50px;
-    line-height: 50px;
-    float:left;
-    padding-left: 40px;
-    position: absolute;
-    top: 0;
-    right: 0;
-    color: rgb(255, 255, 255);
-    text-align: right;
+
+#tagline {
+	color: rgb(255, 255, 255);
+	font-size: 50px;
+	line-height: 50px;
+	float:left;
+	padding-left: 40px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	color: rgb(255, 255, 255);
+	text-align: right;
 	font-family: "Patua One";
 }
-.hero-unit {
+
+.hero-unit, .span4 {
 	background-color: rgba(255, 255, 255, 0.8);
 	-webkit-border-radius: 20px;
 	-moz-border-radius: 20px;
 	border-radius: 20px;
 }
 
+.span4 {
+	width: 260px;
+	padding: 20px;
+}
+
 .navbar .brand {
-padding: 8px 20px 12px;
+	padding: 8px 20px 12px;
 }
 
 .navbar .nav>li>a {
-padding: 11px 10px 9px;
+	padding: 11px 10px 9px;
 }
 
 .navbar-inner {
-min-height: 40px;
+	min-height: 40px;
 }
