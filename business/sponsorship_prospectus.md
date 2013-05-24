@@ -15,7 +15,7 @@ Scope
 
 *    Meetup.com website fees
 *    Event space
-*    Food / Beverage on occassion
+*    Food / Beverage on occasion
 *    Professional Videography
 *    Website / Branding
 *    Prizes at events
